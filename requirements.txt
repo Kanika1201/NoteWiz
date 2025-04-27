@@ -1,3 +1,4 @@
 streamlit
 mistralai
 pdfplumber
+python-dotenv

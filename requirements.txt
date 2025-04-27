@@ -1,4 +1,4 @@
 streamlit
 mistralai
 pdfplumber
-python-dotenv
+load_dotenv
